@@ -4,6 +4,8 @@ Programas para Ingenieria Civil en Chile con la calculadora Texas TI-NSPIRE CX C
 # www.marlonfalcon.cl
 Marlon Falcon Hernandez
 
+# DISEÑO SISMICO CHILE UC
+
 #  P1-Analisis-Estatico-nxn.tns
 Programa para el calculo estatico de sismo bajo la norma NCh433.Of1996 Mod 2012 para la calculadora ti
 
@@ -15,3 +17,12 @@ Programa para el calculo modal de sismo bajo la norma NCh433.Of1996 Mod 2012 par
 
 #  P4-Analisis-Modal-4x4.tns
 Programa para el calculo modal de sismo bajo la norma NCh433.Of1996 Mod 2012 para la calculadora ti con edificio de cuatro pisos
+
+#  P5-FMatriz.tns
+Programa para el calculo de sismo sin norma
+
+# P6-Curva-Atenuacion.tns
+Programa para el calculo de curvas de atenuacion en sismos
+
+#  P7-Amplificacion-Suelo.tns
+Programa para el calculo de amplificacion de suelo
