@@ -24,5 +24,8 @@ Programa para el calculo de sismo sin norma
 # P6-Curva-Atenuacion.tns
 Programa para el calculo de curvas de atenuacion en sismos
 
-#  P7-Amplificacion-Suelo.tns
+#  P7-Afloramiento-Rocoso.tns.tns
+Programa para el calculo de afloramiento rocoso
+
+#  P8-Amplificacion-Suelo.tns
 Programa para el calculo de amplificacion de suelo
